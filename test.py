@@ -1,1 +1,1 @@
-print("Rasool shaik + Entry Course")
+print("Rasool shaik + Entry")
