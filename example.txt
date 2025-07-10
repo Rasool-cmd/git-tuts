@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is an Rasool
+=======
+This is an Exam
+>>>>>>> a3b2d975480eab03186d4f793517e6b9a94b88ab
